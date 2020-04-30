@@ -5,3 +5,8 @@ This is an example application featured in my [Flask Mega-Tutorial](https://blog
 ## Start elasticsearch
 cmd.exe in D:\Programme\elasticsearch\elasticsearch-7.6.2
 .\elasticsearch.bat
+
+##STart Vagrant and mysql
+vagrant up
+vagrant ssh
+sudo /etc/init.d/mysql start

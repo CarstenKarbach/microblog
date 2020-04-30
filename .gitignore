@@ -40,3 +40,5 @@ app.db
 microblog.log*
 
 .settings
+.vagrant
+ubuntu*console.log
